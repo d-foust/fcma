@@ -7,8 +7,5 @@ Packages required beyond the standard Anaconda installation:
 2. Draw regions of interest: 'multicolor roi drawing.ipynb'
 3. Calculate average reference spectra: 'calculate reference spectra w masks.ipynb'
 
-## Calculating Detection Spectra and Covariance Matrices
-1. 
-
-## Unmixing multi-chromophore images for spectrally resolved Raster Image Correlation Spectroscopy
-1. 
+## Unmixing multi-chromophore images
+1. Unmix 
