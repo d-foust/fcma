@@ -44,5 +44,5 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 
 ## Fitting spatial autocorrelation functions 
 The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.  
-Single chromophore: 'correlation fitting one color 2D.ipynb'
+Single chromophore: 'correlation fitting one color 2D.ipynb'  
 Three chromophores: 'correlation fitting three color 2D.ipynb'
