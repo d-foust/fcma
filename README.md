@@ -20,7 +20,7 @@ Example installations from command line:
 pip install tifffile  
 pip install ipympl  
 
-This analysis assumes multi-dimensional imaging data (time, channel, x, y) stored as .lsm (Zeiss) files. The authors make no promises regarding the maintanence of this code. For questions, concerns, or help getting started, please contact Daniel Foust (dfoust@wustl.edu) or David Piston (piston@wustl.edu).
+This analysis assumes multi-dimensional imaging data (time, channel, x, y) stored as .lsm (Zeiss) files. The authors make no promises regarding the maintanence of this code. For questions, concerns, or help getting started, please contact Daniel Foust (dfoust[at]wustl.edu) or David Piston (piston[at]wustl.edu).
 
 ## Determining Reference Spectra
 1. Combine channels for images of cells expressing a single chromophore: 'combine channels.ipynb'  
@@ -40,7 +40,9 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 1. 
 
 ## Calculate spatial correlation functions (spectrally resolved Raster Image Correlation Spectroscopy)
-1.  
+1. 'correlation anlaysis w masks frames together.ipynb'
 
 ## Fitting spatial autocorrelation functions 
-The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.
+The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.  
+Single chromophore: 'correlation fitting one color 2D.ipynb'
+Three chromophores: 'correlation fitting three color 2D.ipynb'
