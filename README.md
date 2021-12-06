@@ -34,13 +34,13 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 1. Draw regions of interest: 'multicolor roi drawing.ipynb'  
 
 ## Calculate detection spectra and covariance matrices
-1. 
+1. Calculate detection spectra and covaraince matrices: 'Calculate Cumulants with Highpass Filter.ipynb'
 
 ## Fitting detection spectra and covariance matrices
-1. 
+1. Fit detection spectra and : 'Fit Cumulants.ipynb'
 
 ## Calculate spatial correlation functions (spectrally resolved Raster Image Correlation Spectroscopy)
-1. 'correlation anlaysis w masks frames together.ipynb'
+1. Calculate correlation functions: 'correlation anlaysis w masks frames together.ipynb'
 
 ## Fitting spatial autocorrelation functions 
 The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.  
