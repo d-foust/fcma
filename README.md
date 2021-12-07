@@ -14,11 +14,12 @@ matplotlib 3.1.3
 ipympl 0.5.6  
 tifffile 2020.2.16  
 
-Packages required beyond the standard Anaconda installation: tifffile, ipympl  
+Packages required beyond the standard Anaconda installation: tifffile, ipympl, ipyfilechooser  
 
 Example installations from command line:  
 pip install tifffile  
 pip install ipympl  
+pip install ipyfilechooser  
 
 This analysis assumes multi-dimensional imaging data (time, channel, x, y) stored as .lsm (Zeiss) files. The authors make no promises regarding the maintanence of this code. For questions, concerns, or help getting started, please contact Daniel Foust (dfoust[at]wustl.edu) or David Piston (piston[at]wustl.edu).
 
