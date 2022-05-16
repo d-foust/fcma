@@ -42,6 +42,8 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 ## Fitting detection spectra and covariance matrices
 1. Fit detection spectra and : 'Fit Cumulants.ipynb'
 
+<img src="fcma%20supporting%20images/fitting cumulants.png" width="500">
+
 ## Calculate spatial correlation functions (spectrally resolved Raster Image Correlation Spectroscopy)
 1. Calculate correlation functions: 'correlation anlaysis w masks frames together.ipynb'
 
@@ -49,5 +51,3 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.  
 Single chromophore: 'correlation fitting one color 2D.ipynb'  
 Three chromophores: 'correlation fitting three color 2D.ipynb'
-
-<img src="fcma%20supporting%20images/fitting cumulants.png" width="500">
