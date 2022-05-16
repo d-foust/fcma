@@ -31,6 +31,8 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 ## Unmixing multi-chromophore images
 1. Unmix using: 'unmix species.ipynb'  
 
+<img src="fcma%20supporting%20images/spectral unmixing.png" width="750">
+
 ## Draw regions of interest for unmixed images
 1. Draw regions of interest: 'multicolor roi drawing.ipynb'  
 
