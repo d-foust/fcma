@@ -31,7 +31,7 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 ## Unmixing multi-chromophore images
 1. Unmix using: 'unmix species.ipynb'  
 
-<img src="fcma%20supporting%20images/spectral unmixing.png" width="750">
+<img src="fcma%20supporting%20images/spectral unmixing.png" width="500">
 
 ## Draw regions of interest for unmixed images
 1. Draw regions of interest: 'multicolor roi drawing.ipynb'  
@@ -49,3 +49,5 @@ This analysis assumes multi-dimensional imaging data (time, channel, x, y) store
 The notebook to complete fitting of autocorrelation functions depends on the number of chromophores unmixed to generate spectrally unmixed imaging data. Select the notebook corresponding to the appropriate number of chromophores.  
 Single chromophore: 'correlation fitting one color 2D.ipynb'  
 Three chromophores: 'correlation fitting three color 2D.ipynb'
+
+<img src="fcma%20supporting%20images/fitting cumulants.png" width="500">
